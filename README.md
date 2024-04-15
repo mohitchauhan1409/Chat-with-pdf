@@ -1,6 +1,8 @@
 # Chat-with-pdf
 Chat-with-pdf is a project that allows you to ask questions about a PDF document and receive answers within seconds. This project is built using Langchain over Google Gemini AI LLM model.
 
+Try it now: https://mohitchauhan1409-chat-with-pdf-main-3zax54.streamlit.app/
+
 ## Features
 1. Extracts information from PDF documents
 2. Provides answers to user's questions related to the content of the PDF
@@ -20,10 +22,6 @@ Install the required packages:
 Run this command to start the chat:
 
 `streamlit run main.py`
-
-**OR**
-
-Click on this link: https://mohitchauhan1409-chat-with-pdf-main-3zax54.streamlit.app/
 
 ## Acknowledgments
 Langchain,
