@@ -26,5 +26,5 @@ Run this command to start the chat:
 Click on this link: https://mohitchauhan1409-chat-with-pdf-main-3zax54.streamlit.app/
 
 ## Acknowledgments
-Langchain
+Langchain,
 Google Gemini AI LLM model
